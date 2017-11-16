@@ -2,7 +2,7 @@
 //  BinaryCounterUITests.swift
 //  BinaryCounterUITests
 //
-//  Created by Kevin Pham on 11/13/17.
+//  Created by Kevin Pham on 11/15/17.
 //  Copyright © 2017 Kevin Pham. All rights reserved.
 //
 
